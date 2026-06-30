@@ -1,0 +1,81 @@
+PRIVACY POLICY — Find The Shape!
+Last updated: July 1, 2026
+
+1. Introduction
+Welcome to Find The Shape! ("we", "our", or "us"). This Privacy Policy explains how we collect, use, and protect information when you use our mobile application Find The Shape! (the "App").
+By downloading or using the App, you agree to the terms of this Privacy Policy.
+
+2. Information We Collect
+Information collected automatically:
+
+Device type and operating system version
+App usage data (levels completed, session duration)
+Advertising ID (used for personalized ads)
+Crash reports and performance data
+
+Information we do NOT collect:
+
+Your name, email, or personal identity
+Location data
+Photos, camera, or microphone access
+Payment information (handled entirely by Google Play)
+
+
+3. How We Use Information
+We use collected data to:
+
+Display relevant advertisements through Google AdMob
+Improve app performance and fix bugs
+Analyze gameplay to improve difficulty balancing
+Track daily streaks and game progress (stored locally on your device)
+
+
+4. Advertising
+Find The Shape! uses Google AdMob to display advertisements, including:
+
+Banner ads
+Interstitial ads
+Rewarded video ads
+
+Google AdMob may collect and use data to show personalized ads based on your interests. You can opt out of personalized advertising by visiting: g.co/adsettings
+For more information on how Google uses data: policies.google.com/privacy
+
+5. In-App Purchases
+Find The Shape! offers optional in-app purchases (coins, power-ups, remove ads). All purchases are:
+
+Processed securely through Google Play Billing
+Non-refundable unless required by applicable law
+Not shared with third parties
+
+We do not store or have access to your payment information.
+
+6. Data Storage
+Game progress (level, coins, streak, owned items) is stored locally on your device using Unity PlayerPrefs. This data:
+
+Is not uploaded to our servers
+Is deleted if you uninstall the app
+Is not shared with third parties
+
+
+7. Children's Privacy
+Find The Shape! is suitable for all ages. We do not knowingly collect personal information from children under 13. If you believe your child has provided personal information, please contact us and we will delete it immediately.
+If the app is used by children under 13, personalized ads will not be shown in compliance with COPPA regulations.
+
+8. Third-Party Services
+Our app uses the following third-party services which have their own privacy policies:
+ServicePurposePrivacy PolicyGoogle AdMobAdvertisingpolicies.google.com/privacyGoogle PlayApp distribution & purchasesplay.google.com/about/privacyUnity TechnologiesGame engine & analyticsunity.com/legal/privacy-policy
+
+9. Your Rights
+You have the right to:
+
+Request deletion of any data associated with your device
+Opt out of personalized advertising
+Contact us with any privacy concerns
+
+
+10. Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be posted within the app and on our store listing. Continued use of the app after changes constitutes acceptance of the new policy.
+
+11. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+📧 [cvjetkovic999@gmail.com]
